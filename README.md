@@ -44,9 +44,9 @@ Microsoft Excel
 Git/GitHub
 
 Dashboard preview
-![Overview Dashboard] (Screenshot 2026-08-26.png)
-![Customer Insight] (Screenshot 2026-08-26.png)
-![Market Analysis] (Screenshot 2026-08-26.png)
+![Overview Dashboard] (Screenshot 2026-08-26 022133.png)
+![Customer Insight] (Screenshot 2026-08-26 021743.png)
+![Market Analysis] (Screenshot 2026-08-26 021727.png)
 
 Key Insights:
 ## Customer Insights

@@ -8,8 +8,6 @@
 
 ## Tools & Technologies
 
-## Dashboard
-
 ## Key Insights
 
 ## Business Recommendations
